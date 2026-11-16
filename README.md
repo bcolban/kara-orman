@@ -25,6 +25,8 @@ Kırmızı nokta yakındaki düşmanın gövdesindeyken yapılan vuruş o hedefe
 
 900 ağaçlı ormanda üç boyutlu kabuk sırtları, budaklar, yosun/liken, ayrıntılı yapraklar ve 42 devrik ağaç bulunur. Kızıl dolunayın kraterleri gerçek 2K Ay yüzeyinden çizilir.
 
-WASD hareket · Shift koş · Space zıpla · E kaçın · Sol tık basılı kombo · Sağ tık basılı savunma · V kamera · Esc ayarlar.
+WASD hareket · Shift koş · Space zıpla · E kaçın · Sol tık basılı kombo · Sağ tık basılı savunma · V kamera · H kontrolleri göster/gizle · Esc ayarlar.
+
+Sol alttaki kontrol açıklamaları H veya aynı köşedeki düğmeyle açılıp kapatılır. Tercih bu bilgisayarda hatırlanır; can ve bölüm bilgileri görünür kalır.
 
 Bu depo oynanabilir Windows sürümlerini dağıtmak içindir. Motor ve kullanılan kaynakların lisans bildirimleri indirme paketinde yer alır.
