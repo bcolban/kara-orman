@@ -21,6 +21,8 @@ Oda sahibinin oyunu açık olmalı. Windows güvenlik duvarı oyunun UDP 24567 p
 
 Paladin, Maria ve Ely; 50 / 100 / 150 zombili üç zorluk; boss savaşları; aynı ağ ve Tailscale üzerinden eşli oyun. Bölümdeki bütün zombiler ve boss yenilince takım kazanır.
 
+Kırmızı nokta yakındaki düşmanın gövdesindeyken yapılan vuruş o hedefe isabet eder. İlk iki saldırı **35**, güçlü saldırı **55** hasar verir. Her oyuncu kendi nişangâhıyla hedef seçer.
+
 900 ağaçlı ormanda üç boyutlu kabuk sırtları, budaklar, yosun/liken, ayrıntılı yapraklar ve 42 devrik ağaç bulunur. Kızıl dolunayın kraterleri gerçek 2K Ay yüzeyinden çizilir.
 
 WASD hareket · Shift koş · Space zıpla · E kaçın · Sol tık basılı kombo · Sağ tık basılı savunma · V kamera · Esc ayarlar.
