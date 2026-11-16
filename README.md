@@ -6,7 +6,9 @@ Büyük kızıl dolunayın altında, sisli bir ormanda yakın dövüş ve zombi 
 
 **[Windows sürümünü indir](https://github.com/bcolban/kara-orman/releases/latest/download/KaraOrman-Windows.zip)**
 
-**Releases → en son sürüm → KaraOrman-Windows.zip** dosyasını indir. ZIP'e sağ tıklayıp **Tümünü ayıkla** seç; çıkan klasörde **OYUNU_BASLAT.cmd** dosyasını aç. Godot ve Mixamo kurman gerekmez.
+**Releases → en son sürüm → KaraOrman-Windows.zip** dosyasını indir. ZIP'e sağ tıklayıp **Tümünü ayıkla** seç; çıkan klasörde **KARA_ORMAN.exe** dosyasını aç. Godot ve Mixamo kurman gerekmez. EXE ile **KARA_ORMAN.pck** aynı klasörde kalsın.
+
+Oyun doğrudan motorun özgün dijital imzalı EXE dosyasından açılır; CMD başlatıcısı kullanılmaz. Windows yine uyarı gösterebilir. Pakette kısa açma anlatımı **1_ONCE_BUNU_OKU.txt** dosyasındadır. Başkalarına bütün ZIP'i veya bu indirme bağlantısını gönder; kendi bilgisayarının kısayolu ya da yalnız EXE dosyası yeterli değildir.
 
 İki oyuncu da aynı sürümü kullanmalı. Oyun tarayıcı içinde çalışmaz.
 
