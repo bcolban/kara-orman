@@ -23,7 +23,7 @@ Oda sahibinin oyunu açık olmalı. Windows güvenlik duvarı oyunun UDP 24567 p
 
 ## Oyunda
 
-Hikâyeden sonra **21 adımlık zorunlu temel eğitim** var. Yürüme, koşma, iki zıplama, engel aşma, kamera, kombo, savunma, kaçınma, güçlü vuruş ve üç kahramanın dövüş biçimleri gerçek uygulamayla öğretilir. Her bilgisayarda bir kez tamamlanır; yarım kalırsa son adımdan sürer. Finalde **üç kahraman, dokuz normal/mutant zombi türü ve üç boss**, toplam 15 karakter yan yana dans eder. Ardından tek oyunculu ve oda seçenekleri açılır.
+Hikâyeden sonra **20 adımlık zorunlu temel eğitim** var. Yürüme, koşma, iki zıplama, engel aşma, kamera, kombo, savunma, kaçınma, güçlü vuruş ve üç kahramanın dövüş biçimleri gerçek uygulamayla öğretilir. Her bilgisayarda bir kez tamamlanır; yarım kalırsa son adımdan sürer. Finalde **üç kahraman, dokuz normal/mutant zombi türü ve üç boss**, toplam 15 karakter yan yana dans eder. Ardından tek oyunculu ve oda seçenekleri açılır.
 
 Paladin, Maria ve Ely; 50 / 100 / 150 zombili üç zorluk; boss savaşları; aynı ağ ve Tailscale üzerinden eşli oyun. Bölümdeki bütün zombiler ve boss yenilince takım kazanır.
 
