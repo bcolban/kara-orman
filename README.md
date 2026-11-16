@@ -29,9 +29,9 @@ Paladin, Maria ve Ely; 50 / 100 / 150 zombili üç zorluk; boss savaşları; ayn
 
 Nişangâhın merkezi yakındaki düşmanın gövdesindeyken yapılan vuruş o hedefe isabet eder. Yakın dövüş menzili zombilerde **2,5 m**, bosslarda **3,5 m**. İlk iki saldırı **35**, güçlü saldırı **55** hasar verir. Her oyuncu kendi nişangâhıyla hedef seçer.
 
-Ayarlarda **önizlemeli 10 nişangâh** arasından seçim yapılır; eski tek kırmızı nokta kaldırılmıştır. Kahramanların, zombilerin ve bossların isabet alanları genişlikte %20, yükseklikte %6 büyütüldü. **Hitbox'ları göster** seçeneği alanların çizgilerini açıp kapatır. İki tercih de bilgisayarda kaydedilir. Paladin savunurken kalkanını biraz daha yukarıda tutar.
+Ayarlarda **önizlemeli 10 nişangâh** arasından seçim yapılır; eski tek kırmızı nokta kaldırılmıştır. **Hitbox'ları göster** yalnızca **5 metre içindeki ve görüşü açık** isabet alanlarını gösterir; ağaç, kaya ve duvar arkasındakileri gizler. Başarılı vuruşta isabet işareti, **35 / 55 hasar** ve düşmanın kalan canı görünür. Eşli oyunda isabeti oda sahibi doğrular, işaret yalnızca vuran oyuncuya gösterilir. Tercihler bilgisayarda kaydedilir.
 
-900 ağaçlı ormanda üç boyutlu kabuk sırtları, budaklar, yosun/liken, ayrıntılı yapraklar ve 42 devrik ağaç bulunur. Kızıl dolunayın kraterleri gerçek 2K Ay yüzeyinden çizilir.
+Dalgalı arazi ve doğal açıklıklara sahip ormanda 900 ağaç, ayrıntılı yaprak kümeleri, yosunlu kaya yüzeyleri ve 42 devrik ağaç bulunur. Sınırların ötesinde kaya dokulu dağ sırtları ve 2400 uzak ağaçla manzara devam eder. Kızıl dolunayın kraterleri gerçek 2K Ay yüzeyinden çizilir.
 
 WASD hareket · Shift koş · Space zıpla · E kaçın · Sol tık basılı kombo · Sağ tık basılı savunma · V kamera · H kontrolleri göster/gizle · Esc ayarlar.
 
