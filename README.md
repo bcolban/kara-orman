@@ -12,6 +12,8 @@ Oyun doğrudan motorun özgün dijital imzalı EXE dosyasından açılır; CMD b
 
 İki oyuncu da aynı sürümü kullanmalı. Oyun tarayıcı içinde çalışmaz.
 
+Açılıştaki ana menüde büyük **OYNA** düğmesine bas. İlk oyunda hikâye ve zorunlu eğitime girer; eğitim yarım kaldıysa kayıtlı adımdan sürer. Eğitim tamamlandıysa OYNA doğrudan ormanı açar. Oda düğmeleri eğitim bitince açılır.
+
 ## Birlikte oyna
 
 - **Aynı Wi-Fi:** biriniz **ODA KUR** desin. Diğeri oda sahibinin oyun ekranında görünen yerel IP adresini yazıp **ODAYA KATIL** desin.
