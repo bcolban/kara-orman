@@ -33,6 +33,8 @@ Ayarlarda **önizlemeli 10 nişangâh** arasından seçim yapılır; eski tek k�
 
 Dalgalı arazi ve doğal açıklıklara sahip ormanda 900 ağaç, ayrıntılı yaprak kümeleri, yosunlu kaya yüzeyleri ve 42 devrik ağaç bulunur. Sınırların ötesinde kaya dokulu dağ sırtları ve 2400 uzak ağaçla manzara devam eder. Kızıl dolunayın kraterleri gerçek 2K Ay yüzeyinden çizilir.
 
+Yere yakın otlar kıvrımlı, eğreltiotu yaprakları yuvarlatılmış geometri kullanır. Bitki kümeleri yamaçların eğimine oturur; köklerin havada kalması azaltılmıştır.
+
 WASD hareket · Shift koş · Space zıpla · E kaçın · Sol tık basılı kombo · Sağ tık basılı savunma · V kamera · H kontrolleri göster/gizle · Esc ayarlar.
 
 Sol alttaki kontrol açıklamaları H veya aynı köşedeki düğmeyle açılıp kapatılır. Tercih bu bilgisayarda hatırlanır; can ve bölüm bilgileri görünür kalır.
