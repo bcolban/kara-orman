@@ -27,6 +27,8 @@ Hikâyeden sonra **20 adımlık zorunlu temel eğitim** var. Yürüme, koşma, i
 
 Paladin, Maria ve Ely; 50 / 100 / 150 zombili üç zorluk; boss savaşları; aynı ağ ve Tailscale üzerinden eşli oyun. Bölümdeki bütün zombiler ve boss yenilince takım kazanır.
 
+Zafer veya yenilgiden **10 saniye sonra ana menüye otomatik dönülür**; sonuç ekranında geri sayım görünür. Eşli oyunda herkes aynı bölüm sonucuyla döner. Bir kahraman ölürken takım arkadaşları yaşıyorsa oyun ve izleme sürer; yenilgi süresi tüm takım düştüğünde başlar.
+
 Nişangâhın merkezi yakındaki düşmanın gövdesindeyken yapılan vuruş o hedefe isabet eder. Yakın dövüş menzili zombilerde **2,5 m**, bosslarda **3,5 m**. İlk iki saldırı **35**, güçlü saldırı **55** hasar verir. Her oyuncu kendi nişangâhıyla hedef seçer.
 
 Ayarlarda **önizlemeli 10 nişangâh** arasından seçim yapılır; eski tek kırmızı nokta kaldırılmıştır. **Hitbox'ları göster** yalnızca **5 metre içindeki ve görüşü açık** isabet alanlarını gösterir; ağaç, kaya ve duvar arkasındakileri gizler. Başarılı vuruşta isabet işareti, **35 / 55 hasar** ve düşmanın kalan canı görünür. Eşli oyunda isabeti oda sahibi doğrular, işaret yalnızca vuran oyuncuya gösterilir. Tercihler bilgisayarda kaydedilir.
