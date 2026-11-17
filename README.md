@@ -2,6 +2,8 @@
 
 Büyük kızıl dolunayın altında, sisli bir ormanda yakın dövüş ve zombi hayatta kalma oyunu. Windows için, tek başına veya en fazla üç oyuncuyla oynanır.
 
+Paladin ve Maria'nın kılıçları öndeki yakın düşmanları aynı savuruşta vurur; Ely'nin omuz/gövde saldırısı tek hedefte kalır. Her hedefte kombo hasarı **35 / 35 / 55**; ağaçlar ve duvarlar darbeleri engeller. İsabet yazısındaki **×** sayısı vurulan düşman sayısını gösterir.
+
 ## İndir ve aç
 
 **[Windows sürümünü indir](https://github.com/bcolban/kara-orman/releases/latest/download/KaraOrman-Windows.zip)**
