@@ -21,6 +21,8 @@ Açılıştaki ana menüde büyük **OYNA** düğmesine bas. İlk oyunda hikâye
 
 Oda sahibinin oyunu açık olmalı. Windows güvenlik duvarı oyunun UDP 24567 portuna erişime izin vermeli. Tailscale kurulumunu iki bilgisayarda bir kez tamamlamanız gerekir. Ayrıntılı Türkçe anlatım paketteki **BIRLIKTE_OYNA.txt** dosyasında.
 
+Grup oyununda **Enter** ile takım sohbetini açıp mesajını gönder; **Esc** ile kapat. **T'ye basılı tutarak konuş**, bırakınca mikrofon yayını durur. Konuşan kahraman sağ altta görünür. Ayarlardan mikrofonunu ve sohbet sesini seçebilir, sesli sohbeti kapatabilirsin. Ses ve mesajlar oyun bağlantısını kullanır; ayrı bir hesap gerekmez.
+
 ## Oyunda
 
 Hikâyeden sonra **20 adımlık zorunlu temel eğitim** var. Yürüme, koşma, iki zıplama, engel aşma, kamera, kombo, savunma, kaçınma, güçlü vuruş ve üç kahramanın dövüş biçimleri gerçek uygulamayla öğretilir. Her bilgisayarda bir kez tamamlanır; yarım kalırsa son adımdan sürer. Finalde **üç kahraman, dokuz normal/mutant zombi türü ve üç boss**, toplam 15 karakter yan yana dans eder. Ardından tek oyunculu ve oda seçenekleri açılır.
@@ -33,11 +35,15 @@ Nişangâhın merkezi yakındaki düşmanın gövdesindeyken yapılan vuruş o h
 
 Ayarlarda **önizlemeli 10 nişangâh** arasından seçim yapılır; eski tek kırmızı nokta kaldırılmıştır. **Hitbox'ları göster** yalnızca **5 metre içindeki ve görüşü açık** isabet alanlarını gösterir; ağaç, kaya ve duvar arkasındakileri gizler. Başarılı vuruşta isabet işareti, **35 / 55 hasar** ve düşmanın kalan canı görünür. Eşli oyunda isabeti oda sahibi doğrular, işaret yalnızca vuran oyuncuya gösterilir. Tercihler bilgisayarda kaydedilir.
 
+Maria'nın modeli, kılıcın oluşturduğu toplam sınırlar yerine gövdesinin merkeziyle hizalanır; isabet alanı artık gövdesinden yana kaymaz.
+
 Dalgalı arazi ve doğal açıklıklara sahip ormanda 900 ağaç, ayrıntılı yaprak kümeleri, yosunlu kaya yüzeyleri ve 42 devrik ağaç bulunur. Sınırların ötesinde kaya dokulu dağ sırtları ve 2400 uzak ağaçla manzara devam eder. Kızıl dolunayın kraterleri gerçek 2K Ay yüzeyinden çizilir.
 
 Yere yakın otlar kıvrımlı, eğreltiotu yaprakları yuvarlatılmış geometri kullanır. Bitki kümeleri yamaçların eğimine oturur; köklerin havada kalması azaltılmıştır.
 
 WASD hareket · Shift koş · Space zıpla · E kaçın · Sol tık basılı kombo · Sağ tık basılı savunma · V kamera · H kontrolleri göster/gizle · Esc ayarlar.
+
+**F11** ile tam ekran ve pencere modu arasında geçiş yapabilirsin. Menü, hikâye, temel eğitim ve oyun sırasında çalışır.
 
 Sol alttaki kontrol açıklamaları H veya aynı köşedeki düğmeyle açılıp kapatılır. Tercih bu bilgisayarda hatırlanır; can ve bölüm bilgileri görünür kalır.
 
