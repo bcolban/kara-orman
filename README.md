@@ -1,5 +1,7 @@
 # KARA ORMAN
 
+Öldürücü kılıç darbesi düşmanı savuruşun yönünde ikiye ayırır; kesik yüzeyi, kan püskürmesi ve yere düşen parçalar görünür. Türkçe altyazılı başlangıç hikâyesi artık Türkçe yapay anlatıcıyla seslidir ve çevrimdışı çalar.
+
 Büyük kızıl dolunayın altında, sisli bir ormanda yakın dövüş ve zombi hayatta kalma oyunu. Windows için, tek başına veya en fazla üç oyuncuyla oynanır.
 
 Paladin ve Maria'nın kılıçları öndeki yakın düşmanları aynı savuruşta vurur; Ely'nin omuz/gövde saldırısı tek hedefte kalır. Her hedefte kombo hasarı **35 / 35 / 55**; ağaçlar ve duvarlar darbeleri engeller. İsabet yazısındaki **×** sayısı vurulan düşman sayısını gösterir.
