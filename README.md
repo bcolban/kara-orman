@@ -1,5 +1,7 @@
 # KARA ORMAN
 
+Bedenler ve kan izleri bölüm boyunca yerde kalır. Kan, kesilme sonrasında püskürür ve ıslak sıvı sesiyle yere dökülür; kesik yüzeylerde kas, damar ve kemik ayrıntıları bulunur. Haritayı her yönden yüksek dağlar çevreler. Opak ayarlar menüsünde dört grafik seviyesi seçilip kaydedilir. Türkçe hikâye anlatımı daha yavaş ve tok bir okumayla, altyazılarla uyumlu yaklaşık 71 saniyelik sinematikte oynar.
+
 Öldürücü kılıç darbesi düşmanı savuruşun yönünde ikiye ayırır; kesik yüzeyi, kan püskürmesi ve yere düşen parçalar görünür. Türkçe altyazılı başlangıç hikâyesi artık Türkçe yapay anlatıcıyla seslidir ve çevrimdışı çalar.
 
 Büyük kızıl dolunayın altında, sisli bir ormanda yakın dövüş ve zombi hayatta kalma oyunu. Windows için, tek başına veya en fazla üç oyuncuyla oynanır.
